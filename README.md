@@ -1,6 +1,7 @@
 # Sliding Text Animation
 Provide a SlidingLabel to display a circular sliding animation using UIKit.
-The SlidingLabel automatically checks if the text is larger than its size to animate or not.
+
+The SlidingLabel can automatically check if the text is larger than its size to animate or not.
 
 ![Alt Text](https://github.com/phuongnuyen/sliding_text/blob/main/sliding_text.gif)
 
