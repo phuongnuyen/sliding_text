@@ -1,0 +1,15 @@
+{
+  "originHash" : "dda7b04f1e1e31964f0dce7b5e1544095c1a5633e6513d0c14f7154868ea95d8",
+  "pins" : [
+    {
+      "identity" : "sliding_text_spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/phuongnuyen/sliding_text_spm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "30d64d6b26123619de4976c7b325dab13abde434"
+      }
+    }
+  ],
+  "version" : 3
+}
